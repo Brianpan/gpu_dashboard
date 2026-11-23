@@ -1,0 +1,4 @@
+state,cents_per_kwh,source
+CA,30.02,https://www.electricchoice.com/electricity-prices-by-state/
+TX,8.96,https://www.electricchoice.com/electricity-prices-by-state/
+NY,23.06,https://www.electricchoice.com/electricity-prices-by-state/

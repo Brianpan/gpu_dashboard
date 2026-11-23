@@ -1,0 +1,17 @@
+{
+  "name": "gpu-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GPU economics battle-test: build vs rent vs frontier model",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "python3 -m http.server 8080",
+    "deploy": "wrangler deploy",
+    "cf-dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "wrangler": "4.166.0"
+  }
+}

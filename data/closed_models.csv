@@ -1,0 +1,3 @@
+model,input_price_per_1m,output_price_per_1m,cost_per_task,source
+Fable 5.2,8.00,40.00,26.54,https://artificialanalysis.ai/leaderboards/models
+GPT 6.2,2.00,10.00,1.01,https://artificialanalysis.ai/leaderboards/models

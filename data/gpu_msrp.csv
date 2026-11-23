@@ -1,0 +1,5 @@
+gpu,msrp_usd,tdp_watts,source
+h100,30000,700,https://intuitionlabs.ai/articles/nvidia-ai-gpu-pricing-guide
+h200,35000,700,https://intuitionlabs.ai/articles/nvidia-ai-gpu-pricing-guide
+b200,40000,1000,https://intuitionlabs.ai/articles/nvidia-ai-gpu-pricing-guide
+b300,40000,1100,https://intuitionlabs.ai/articles/nvidia-ai-gpu-pricing-guide
